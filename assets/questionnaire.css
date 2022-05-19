@@ -1,0 +1,15 @@
+.questionnaire_button {
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+  font-size: 40px;
+}
+
+.questionnaire_text {
+  display: inline-block;
+  margin-left: 10px;
+  line-height: 50px;
+  text-align: center;
+  font-size: 25px;
+}
